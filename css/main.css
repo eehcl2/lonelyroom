@@ -1,0 +1,43 @@
+/* main style */
+.main .container {
+  height: 575px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 16px;
+}
+
+.main .codename-select p {
+  border: solid 0.5px;
+  border-color: aliceblue;
+  width: 140px;
+  height: 20px;
+  margin: 10px 25px auto;
+}
+
+.main .img-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.main img {
+  width: 40%;
+  margin: 10px;
+}
+
+/* page-num style */
+.page-num .container {
+  height: 96px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-num p {
+  color: aliceblue;
+  margin: 0 4px;
+}

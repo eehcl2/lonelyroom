@@ -1,0 +1,14 @@
+/* reset style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* common css */
+.wrepper {
+  width: 100%;
+  max-width: 375px;
+  height: 812px;
+  background: #000;
+}

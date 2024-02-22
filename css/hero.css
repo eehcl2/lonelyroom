@@ -1,0 +1,13 @@
+.hero .container {
+  width: 100%;
+  max-width: 375px;
+  height: 140px;
+  background-color: rgb(131, 16, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero p {
+  color: aliceblue;
+}
